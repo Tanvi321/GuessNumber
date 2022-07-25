@@ -1,0 +1,33 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #B6D8F2, #B6D8F2, #F9CAD7, #F9CAD7, #F7F6CF);
+}
+
+.header
+{
+	color: black;font-family: 'Edu VIC WA NT Beginner' ;font-size: 45px;letter-spacing: 7px;margin-top: 70px;
+}
+
+#logo{
+    width: 40px ;
+    opacity:40%
+}
+
+
+.login_div
+{
+    margin:10%;
+	background: rgba(255,255,255,0.95);
+    float: none;
+    border-radius: 15px;
+    padding: 20px;  
+}
+
+
+
